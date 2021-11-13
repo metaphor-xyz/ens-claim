@@ -1,7 +1,7 @@
 {
   "name": "@metaphor-xyz/ens-claim",
   "version": "1.0.0",
-  "description": "Help users claim their ENS tokens",
+  "description": "React hooks and components that help notify users to claim their $ENS airdrop.",
   "homepage": "https://github.com/metaphor-xyz/ens-claim",
   "repository": {
     "type": "git",
