@@ -1,6 +1,6 @@
 {
   "name": "@metaphor-xyz/ens-claim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hooks and components that help notify users to claim their $ENS airdrop.",
   "homepage": "https://github.com/metaphor-xyz/ens-claim",
   "repository": {

@@ -190,7 +190,7 @@ export default function ENSClaimButton({
   const openClaimModal = useCallback(() => setClaimOpen(true), []);
   const closeClaimModal = useCallback(() => setClaimOpen(false), []);
 
-  if (!hasClaimed) {
+  if (hasClaimed !== false) {
     return null;
   }
 
